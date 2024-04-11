@@ -6,7 +6,7 @@ README for YouTube Clone
 <li>Search and display videos using YouTube API.</li>
 <li>Play video with video player.</li>
 <li>List of related videos.</li>
-<li><a href="https://youtube-clone.sureshjangid.in/" target="__blank">For YouTube Clone click here </a>
+<li><a href="https://youtube-zeta-wine.vercel.app/" target="__blank">For YouTube Clone click here </a>
 <br>
 <div class="flex">
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/75411144/228308786-b9904af0-d95c-48fd-a43d-eb4dbf69afa2.png">
